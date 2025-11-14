@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @githutsav
-- 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning CSS for devlopment.
+- 👀 I’m interested in web devlopment and is proficient in c++,python,javascript(next,react).
+- 🌱 I’m currently learning blockchain and cryptography for devlopment.
 - 📫 Email me - daringutsav@gmail.com
 
 <!---
